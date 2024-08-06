@@ -4,7 +4,7 @@ import java.nio.file.Paths;
 import java.util.InputMismatchException;
 import java.util.Scanner;
 
-public class menu {
+public class cadastro{
     public static Scanner leia = new Scanner(System.in);
     public static Scanner scanner = new Scanner(System.in);
 

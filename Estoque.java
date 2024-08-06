@@ -163,7 +163,7 @@ public class Estoque {
 
     }
 
-    public static void saida(String path) {
+    public static void saida(String path) throws FileNotFoundException {
         int quantvenda, idproduto;
         
         System.out.println("Digite o id do produto que foi vendido: ");
